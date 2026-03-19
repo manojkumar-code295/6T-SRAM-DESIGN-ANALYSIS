@@ -37,7 +37,16 @@ In particular, semiconductor fabrication, parameters such as transistor speed, t
 -pre-corner analysis 
 It was performed under typical conditions to verify the 6T SRAM
 
-## RESULTS
+## KEY LEARNINGS
 Successfully designed and analysed a 6T SRAM cell, verifying correct functionality in hold, read, and write modes.
 Evaluated stability using VTC and butterfly curves, confirming reliable operation through sufficient static noise margin (SNM).
-Validated robustness of the design through pre-corner and corner analysis, ensuring proper performance under different conditions.     
+Validated robustness of the design through pre-corner and corner analysis, ensuring proper performance under different conditions. 
+
+## AUTHOR
+MANOJ KUMAR R
+
+## RESULTS
+## 📊 Results
+![Butterfly Curve](04_results/butterfly_curve.png.img)
+![Corner Analysis](04_results/corner_analysis.png.img)
+
